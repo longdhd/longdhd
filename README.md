@@ -2,7 +2,7 @@
 # Long Dang - Frontend Web Developer
 
 - Open and friendly, don't often bite.
-- Love to learn new things, especially things related to website developlemt.
+- Love to learn new things, especially things related to website development.
 - Enjoy working with ReactJS, NextJS ❤
 
 ## Working
