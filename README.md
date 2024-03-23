@@ -7,6 +7,7 @@
 
 ## Working
 
+- `Former Frontend Developer` at VTL Solution Ltd: [https://vtl-vtl.com](https://vtl-vtl.com)
 - `Former Frontend & Unity Developer` at Unicloud HCM: [https://www.univr.vn/](https://www.univr.vn/)
 
 ## Learning through projects
